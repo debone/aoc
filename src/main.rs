@@ -1,8 +1,8 @@
-use day_10;
+use day_12;
 
 fn main() {
     println!("First:");
-    day_10::first();
+    day_12::first();
     println!("\nSecond:");
-    day_10::second();
+    day_12::second();
 }
